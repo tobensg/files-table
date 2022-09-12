@@ -1,6 +1,5 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import styled from 'styled-components'
-import download from './download.svg'
 import TableHeader from './table-header'
 import TableBody from './table-body'
 
